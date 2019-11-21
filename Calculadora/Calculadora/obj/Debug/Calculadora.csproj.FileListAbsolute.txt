@@ -1,0 +1,40 @@
+E:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+E:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+E:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+E:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+E:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+F:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+F:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+F:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+F:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+F:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+F:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+F:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+F:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+F:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+F:\faculdade\trabalho oficial\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\gusta\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\gusta\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\gusta\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\gusta\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\gusta\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\gusta\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\gusta\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\gusta\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\2019102342\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\2019102342\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\2019102342\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\2019102342\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\2019102342\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\2019102342\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\2019102342\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\2019102342\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\2019102342\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\2019102342\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
